@@ -1,0 +1,25 @@
+{
+    "stops" : [
+        {
+            "name" : "Louis'",
+            "location" : "Queens",
+            "price" : "Expensive",
+            "service" : "Good",
+            "usp" : "Lasagne"
+        },
+        {
+            "name" : "Louis'",
+            "location" : "Queens",
+            "price" : "Expensive",
+            "service" : "Good",
+            "usp" : "Lasagne"
+        },
+        {
+            "name" : "Louis'",
+            "location" : "Queens",
+            "price" : "Expensive",
+            "service" : "Good",
+            "usp" : "Lasagne"
+        }
+    ]
+}
